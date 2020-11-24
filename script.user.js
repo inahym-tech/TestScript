@@ -2,7 +2,7 @@
 // @name        script
 // @namespace   script
 // @include     https://example.com/
-// @updateURL   https://github.com/inahym-tech/TestScript/raw/main/script.user.js
+// @downloadURL https://github.com/inahym-tech/TestScript/raw/main/script.user.js
 // @supportURL  https://github.com/inahym-tech/TestScript/
 // @version     1.1
 // ==/UserScript==
